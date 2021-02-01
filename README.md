@@ -10,20 +10,22 @@
 
 - 👯 I'm looking to collaborate on a project.
 
-.😃experiencias en:
+- 😃experiencias en:
 ssql, html, css, javascrip
 
-. 📫 How to contact me: by:
+- 📫 How to contact me: by:
 ✔ Facebook. mari castillo
+
 ✔instagram.maricastillo445
 
-.📖estudios:
+- 📖estudios:
 ✔estudios primarios en san lorenzo ((2006-2016)
+
 ✔Estudiops secundarios en el centro Manuel Acevedo Cerrano fe y alegria (2016-2021)
 
-.😄 Pronombres: mari
+- 😄 Pronombres: mari
 
-.😎Actualmente estoy aprendiendo:
+- 😎Actualmente estoy aprendiendo:
 ✔php
 ✔herramientas para desarrollo web
 
