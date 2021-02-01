@@ -15,12 +15,9 @@
 
 <img height="32" width="32" src="https://img.icons8.com/color/2x/javascript.png" /> 
 <img height="32" width="32" src="https://img.icons8.com/color/2x/nodejs.png" />
-
-<img height="32" width="32" src="https://img.icons8.com/color/2x/python.png" />
-<img height="32" width="32" src="https://img.icons8.com/color/2x/html-5.png" />
+<img height="32" width="32" src="https://img.icons8.com/color/2x/html.png" />
 <img height="32" width="32" src="https://img.icons8.com/color/2x/css.png" />
 <img height="32" width="32" src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" />
-<img height="32" width="32" src="https://img.icons8.com/color/2x/ubuntu.png" />
 <img height="32" width="32" src="https://img.icons8.com/color/2x/linux.png" />
 
 
