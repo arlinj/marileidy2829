@@ -1,5 +1,5 @@
 ### Hi there 👋 mi nombre es marileidy castillo maria
-<!--
+
 **marileidy2829/marileidy2829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 (dOMINICANA) programdor junior
@@ -25,4 +25,4 @@ ssql, html, css, javascrip
 -Actualmente estoy aprendiendo:
 ✔php
 ✔herramientas para desarrollo web
--->
+
