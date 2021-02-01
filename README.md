@@ -19,7 +19,7 @@ ssql, html, css, javascrip
 
 -📖estudios:
 ✔estudios primarios en san lorenzo ((2006-2016)
-✔Estudiops secundarios en el centro Manuel Acevedo Cerrano fe y alecria (2016-2021)
+✔Estudiops secundarios en el centro Manuel Acevedo Cerrano fe y alegria (2016-2021)
 
 - 😄 Pronombres: mari
 -Actualmente estoy aprendiendo:
