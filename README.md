@@ -35,6 +35,8 @@
 - 😄 Pronombres: mari
 
 - 😎Actualmente estoy aprendiendo:
+
 ✔php
+
 ✔herramientas para desarrollo web
 
