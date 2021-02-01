@@ -19,6 +19,7 @@
 
 
 - 📫 How to contact me: by:
+<img height="32" width="32" src="https://img.icons8.com/color/2x/facebook.png" />
 
 *Facebook (mari castillo)
 
