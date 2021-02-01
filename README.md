@@ -19,8 +19,11 @@
 
 
 - 📫 How to contact me: by:
-<img height="32" width="32" src="https://img.icons8.com/color/2x/facebook.png" />
-<img height="32" width="32" src="https://img.icons8.com/color/2x/Instagram .png" />
+
+*Facebook
+
+
+*Instagram
 
 - 📖Estudios:
 
@@ -32,7 +35,6 @@
 
 - 😎Actualmente estoy aprendiendo:
 
-<img height="32" width="32" src="https://img.icons8.com/color/2x/Markdown.png" />
 
 *php
 
