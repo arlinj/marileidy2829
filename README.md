@@ -20,10 +20,7 @@
 
 - 📫 How to contact me: by:
 <img height="32" width="32" src="https://img.icons8.com/color/2x/facebook.png" />
-
-*Facebook (mari castillo)
-
-*Instagram (maricastillo445)
+<img height="32" width="32" src="https://img.icons8.com/color/2x/Instagram .png" />
 
 - 📖Estudios:
 
@@ -34,6 +31,8 @@
 - 😄 Pronombres: Mari
 
 - 😎Actualmente estoy aprendiendo:
+
+<img height="32" width="32" src="https://img.icons8.com/color/2x/Markdown.png" />
 
 *php
 
