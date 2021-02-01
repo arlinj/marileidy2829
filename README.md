@@ -12,7 +12,13 @@
 
 - 😃experiencias en:
 
-ssql, html, css, javascrip
+✔sql
+
+✔html 
+
+✔css
+
+✔javascrip
 
 - 📫 How to contact me: by:
 
