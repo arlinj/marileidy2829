@@ -20,25 +20,25 @@
 
 - 📫 How to contact me: by:
 
-*Facebook
+* Facebook
 
 
-*Instagram
+* Instagram
 
 - 📖Estudios:
 
-*Estudios primarios en san lorenzo ((2006-2016)
+* Estudios primarios en san lorenzo ((2006-2016)
 
-*Estudiops secundarios en el centro Manuel Acevedo Cerrano fe y alegria (2016-2021)
+* Estudiops secundarios en el centro Manuel Acevedo Cerrano fe y alegria (2016-2021)
 
 - 😄 Pronombres: Mari
 
 - 😎Actualmente estoy aprendiendo:
 
 
-*php
+* php
 
-*Herramientas para desarrollo web
+* Herramientas para desarrollo web
 
-*Markdown
+* Markdown
 
